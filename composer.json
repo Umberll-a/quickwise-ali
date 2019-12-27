@@ -2,7 +2,6 @@
     "name": "umbrella-j/ali-sdk",
     "description": "ali sdk service",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Umbrella-J",
